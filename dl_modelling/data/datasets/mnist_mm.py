@@ -1,4 +1,4 @@
-from dset.mnist import MNIST, COND_MNIST
+from .mnist import MNIST, COND_MNIST
 
 """
 end goal:
